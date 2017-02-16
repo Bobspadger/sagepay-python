@@ -11,5 +11,6 @@ This module should help you encrypt and decrypt as per their currenct v3.0 speci
 
 Pull requests welcomed!
 
+Inspriation for this class ( and a large helping of copy / paste ) thanks to : http://stackoverflow.com/questions/12562021/aes-decryption-padding-with-pkcs5-python )
 
 
